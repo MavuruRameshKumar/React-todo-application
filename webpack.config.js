@@ -16,17 +16,15 @@ module.exports = {
         loaders: [
         {
             test: /\.jsx?$/,
-            loaders: 'babel-loader',
+            loader: 'babel-loader',
             query: {
                 presets: ['es2015', 'react']
             }
         }
         ]
     },
-    
     plugins: [
         new webpack.HotModuleReplacementPlugin()
     ]
 };
-
 
