@@ -1,8 +1,7 @@
 # React-todo-application
 Build a ToDo app using ReactJs
 
-Usage
-<hr />
+# Usage
 <ul>
 <li>https://github.com/MavuruRameshKumar/React-todo-application</li>
 <li>npm install</li>
